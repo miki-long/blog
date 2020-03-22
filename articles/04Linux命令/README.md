@@ -5,7 +5,7 @@
 ### 目录
 
 - [01vim命令](/articles/04Linux命令/01vim命令.md)
-- [02linux常用命令](/articles/04Linux命令/02linux 常用命令.md)
+- [02linux常用命令](/articles/04Linux命令/02linux常用命令.md)
 - [03zsh下配置alias](/articles/04Linux命令/03zsh下配置alias.md)
 - [04文件权限](/articles/04Linux命令/04文件权限.md)
 - [05使用SSH链接服务器](/articles/04Linux命令/05使用SSH链接服务器.md)
