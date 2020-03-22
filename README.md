@@ -6,7 +6,7 @@
 
 ### [02 shell 系列](/articles/02shell/README.md)
 
-### [03 工具 系列](/articles/03工具/README.md)
+### [03 小工具 系列](/articles/03小工具/README.md)
 
 ### [04 Linux 常用命令 系列](/articles/04Linux命令/README.md)
 
